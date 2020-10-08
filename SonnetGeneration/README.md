@@ -22,6 +22,6 @@ simple model - sequential +embedding (dimension = 240 due to lot of vatiaions as
 
 7. now train the model epochs = 100 (due to presence of unsructured data)
 
-Output Window
+# Output:
 
-![Output Window](https://github.com/VineetTambe/MachineLearning/blob/master/SonnetGeneration/ouput.PNG)
+![Output](https://github.com/VineetTambe/MachineLearning/blob/master/SonnetGeneration/ouput.PNG)
