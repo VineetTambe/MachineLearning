@@ -2,9 +2,8 @@
 
 The program implements using the weights of the models built in:
 
-   https://github.com/VineetTambe/MachineLearning/tree/master/SonnetGeneration
-   
-   https://github.com/VineetTambe/MachineLearning/tree/master/Image%20Captioning
+ * [SonnetGeneration Model](https://github.com/VineetTambe/MachineLearning/tree/master/SonnetGeneration)
+ * [Image Captioning Model](https://github.com/VineetTambe/MachineLearning/tree/master/Image%20Captioning)
 
 ## Output:
 
